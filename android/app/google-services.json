@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418530197887",
+    "firebase_url": "https://vgeshop-e016e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vgeshop-e016e",
+    "storage_bucket": "vgeshop-e016e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418530197887:android:298ae157e558dbd2895a4a",
+        "android_client_info": {
+          "package_name": "com.example.vgeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418530197887-r21o770u3geieo1q30vdslr9s0o8sqoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUdfnK68HWW_4MNQ3UtE9V6bUDF3Ap7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418530197887-r21o770u3geieo1q30vdslr9s0o8sqoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
